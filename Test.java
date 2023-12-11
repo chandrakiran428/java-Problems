@@ -1,12 +1,7 @@
 public class Test {
     // main function
-    public static void main(String[] args)
+     public static void main(String []args)
     {
-        // Here str is a string object
-        String str = "GeeksforGeeks";
- 
-        System.out.println("The size of "
-                           + "the String is "
-                           + str.length());
+        System.out.println("My First Java Program.");
     }
 }
