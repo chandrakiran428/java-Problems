@@ -1,7 +1,7 @@
 class Test {
 
   public static void main(String[] args) {
-    String line = "This website is aw3som3.";
+    String line = "MY NAME IS CHAndru  ,123.";
     int vowels = 0, consonants = 0, digits = 0, spaces = 0;
 
     line = line.toLowerCase();
