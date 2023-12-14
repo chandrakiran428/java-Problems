@@ -3,7 +3,8 @@ class Test {
   public static void main(String[] args) {
     String line = "MY NAME IS CHAndru  ,123.";
     int vowels = 0, consonants = 0, digits = 0, spaces = 0;
-
+    System.out.println("hi hello");
+    
     line = line.toLowerCase();
     for (int i = 0; i < line.length(); ++i) {
       char ch = line.charAt(i);
